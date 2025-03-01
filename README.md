@@ -38,6 +38,6 @@ pip install undetected-chromedriver selenium matplotlib
 
 Sentiment Analysis Results:
 
- Positive Tweets: 35
- Negative Tweets: 40
+ Positive Tweets: 35<br>
+ Negative Tweets: 40<br>
  Neutral Tweets: 25
