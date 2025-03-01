@@ -36,7 +36,7 @@ pip install undetected-chromedriver selenium matplotlib
 - matplotlib (for visualizing sentiment analysis results)
 
 
-Sentiment Analysis Results:
+## Sentiment Analysis Results:
 
  Positive Tweets: 35<br>
  Negative Tweets: 40<br>
