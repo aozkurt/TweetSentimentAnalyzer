@@ -14,11 +14,11 @@ This project is a **Twitter (X) Sentiment Analyzer** that scrapes real-time twee
 
 ---
 
-## 🔹 Installation
+##  Installation
 
 Make sure you have **Python 3.8+** installed.
 
-### 📥 Clone the repository  
+###  Clone the repository  
 ```bash
 git clone https://github.com/aozkurt/TweetSentimentAnalyzer.git
 cd TweetSentimentAnalyzer
