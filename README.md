@@ -29,12 +29,15 @@ cd TweetSentimentAnalyzer
 pip install undetected-chromedriver selenium matplotlib
 ```
 
+---
+
 ## Requirements
 
 - undetected-chromedriver (for bypassing bot detection)
 - selenium (for web scraping)
 - matplotlib (for visualizing sentiment analysis results)
 
+---
 
 ## Sentiment Analysis Results:
 
